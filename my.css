@@ -42,7 +42,7 @@ img {
   height: auto;
 }
 
-.bg {
+div.bg {
 	/* The image used */
 	background-image: url("HP3.JPEG");
 
